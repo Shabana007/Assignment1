@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+shabanapackage/__init__.py
+shabanapackage.egg-info/PKG-INFO
+shabanapackage.egg-info/SOURCES.txt
+shabanapackage.egg-info/dependency_links.txt
+shabanapackage.egg-info/top_level.txt
